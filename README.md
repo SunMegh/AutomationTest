@@ -13,3 +13,7 @@ Scenario which is Automated based upon the below steps.
 10. User taken to the 'Sign in'page
 11. Enter the radomly generated email id to proceed to create an account. 
 12. User is taken to the 'Your personal information' page. 
+
+How to Run Instruction
+
+Refer attached word file "HowToRunFile.docx" where its showing main file to be executed.  
